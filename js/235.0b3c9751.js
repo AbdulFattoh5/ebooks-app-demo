@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkebooks_app"]=self["webpackChunkebooks_app"]||[]).push([[235],{5235:function(n,e,o){o.r(e),o.d(e,{default:function(){return i}});var s=o(3396);const t={class:"notfound"},u=(0,s._)("h1",null,"404",-1),r=[u];function c(n,e,o,u,c,a){return(0,s.wg)(),(0,s.iD)("section",t,r)}var a={},f=o(89);const p=(0,f.Z)(a,[["render",c]]);var i=p}}]);
+//# sourceMappingURL=235.0b3c9751.js.map
